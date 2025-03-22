@@ -23,8 +23,8 @@ function randomMatrix(input_x, input_y) {
 
 
 
-let size = 20;
-let xySize = [20,20];
+let size = 10;
+let xySize = [50,50];
 let fr = 5;
 let grassArr = [];
 let grassEaterArr = [];
